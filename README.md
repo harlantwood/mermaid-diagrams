@@ -25,7 +25,7 @@ Just click the link above and follow the instructions
 1. Enable developer mode in chrome://extensions
 2. Clone the repo
    ```bash
-   git clone https://github.com/Redisrupt/mermaid-diagrams
+   git clone https://github.com/harlantwood/mermaid-diagrams
    ```
 3. Click on load unpacked extension
 4. Select the extensions folder inside the recently cloned repo
@@ -33,4 +33,3 @@ Just click the link above and follow the instructions
 Done!
 
 Navigate to any page in github with mermaid syntax blocks to see the extension in action
-
